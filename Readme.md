@@ -12,6 +12,7 @@ With this program we can use the state and understand how to use it, and also us
 Today the plan is to identify the app components,We first want to use the existing data so to display the data,
 Now we want to add information to the state so that we can benefit from it . 
 
+#![](https://ibb.co/jzwtzh9)
 
 We create a file we call the ```LeftSide.jsx```
 In this compound we pass the data we need so names in the data
