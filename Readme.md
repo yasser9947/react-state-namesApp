@@ -69,4 +69,6 @@ We want to do a function that causes a change in what happens on the left side, 
 
 
 
+## Additional Resources
 
+-   [Understanding "state" in React Components](https://thinkster.io/tutorials/understanding-react-state)
