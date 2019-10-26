@@ -41,7 +41,7 @@ var Data = [
     }, {
         name: "Mohhamed",
         Age: 27,
-        city: "Zulfi",
+        city: "Riyadh",
         Nationality: "Saudi",
         Major: "Linguistics",
         img: "https://instagram.fjed6-1.fna.fbcdn.net/vp/398655821f9f2b356dad0806ea17fa57/5E565B45/t51.2885-19/s150x150/70408580_427932754500397_8675784331047731200_n.jpg?_nc_ht=instagram.fjed6-1.fna.fbcdn.net",
