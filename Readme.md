@@ -113,7 +113,7 @@ We create a file we call the ```LeftSide.jsx```
 In this compound we pass the data we need so names in the data
 
 Type inside this file as follows:
-```
+```js
       <div className="left">
                     <div className="Instructors">
                         <h2 className="coror">Welcome to</h2>
@@ -131,7 +131,7 @@ So we work for each special compound name in it
 Now you create a file named ```RightSide.jsx```
 You can print the following code inside:
 
-```
+```js
  <div className="rihgt">
          <div class="container">
                     <img src="https://via.placeholder.com/150" />
