@@ -1,0 +1,91 @@
+/* body {
+    background: url(http://stuckincustoms.smugmug.com/Portfolio-The-Best/your-favorites/i-VXWmNsM/0/3000x3000/trey-ratcliff-the-fields-3000x3000.jpg) no-repeat center center fixed;
+    background-repeat:no-repeat;
+    background-size:cover;
+    
+  } */
+  .container {
+    padding:20px;
+    font-family:Helvetica;
+    font-size:15px;
+    width: 200px;
+    height:200px;
+    margin:auto;
+    color:white;  
+  }
+  .container img{
+    width:150px;
+    height:150px;
+    display:block;
+    margin:auto;
+    border-radius:50%;
+  }
+  #name {
+    padding:10px;
+  }
+  
+  .nameIn h3, .nameIn h4{
+    padding:0px;
+    text-align:center;
+    margin:0px;
+    transition: all 0.5 ease;
+  }
+  .nameEx h3, .nameEx h4 {
+    padding:0px;
+    text-align:left;
+     margin:0px;
+    transition: all 0.5 ease;
+  }
+  .hidden{
+    display: block;
+      transition: opacity 1s ease-out;
+      opacity: 0; 
+      height: 0;
+      overflow: hidden;
+  }
+  .show{
+    opacity: 1;
+    padding:10px;
+      height: auto;
+    transition-delay: 0.5s;
+    transition: all 0.5s ease;
+  }
+  .floatyBox{
+    background-color: rgba(44, 62, 80, 0.8);
+    width:500px;
+    height:auto;
+    margin-left:-170px;
+    margin-top:-70px;
+    padding:70px 10px 10px 10px;
+    transition: width 0.6s, margin 0.6s;
+    transition: all 0.5s ease;
+   
+  
+  }
+  .expandedBox{
+    background-color: rgba(44, 62, 80, 0.8);
+    margin-left:-170px;
+    margin-top:-70px;
+    padding:10px 10px 10px 10px;
+    width:500px; 
+   transition: width 1s, margin 1s;
+    transition: all 0.5s ease;
+   
+  }
+  
+  #more {
+    width:100px;
+    margin:auto;
+    font-size:10px;
+    padding:5px;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    background-color: rgba(44, 62, 80, 0.2);
+    text-align:center;
+  }
+  #more:hover{
+    background-color: rgba(44, 62, 80, 1);
+    cursor:pointer;
+  }
+  
+  
+  
