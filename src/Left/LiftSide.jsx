@@ -4,7 +4,7 @@ export default class LiftSide extends Component {
     render() {
         var names = this.props.seta.map(ele =>{
 
-            return <Names name = {ele.name} />
+            return <Names name = {ele.name} handelEvenetSelect={this.props.handelEvenetSelect} ele ={ele} />
         })
         return (
             <div className="left">

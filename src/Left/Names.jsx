@@ -4,7 +4,7 @@ export default class Names extends Component {
     render() {
         return (
             <div>
-            <div className="namebox" ><h5 className="coror" > {this.props.name} </h5></div>    
+            <div className="namebox" onClick = {() =>this.props.handelEvenetSelect(this.props.ele)} ><h5 className="coror" > {this.props.name} </h5></div>    
             </div>
         )
     }
